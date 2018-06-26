@@ -1,2 +1,1 @@
-# gen1
-Laravel project
+# Gen1-Site
